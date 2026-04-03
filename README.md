@@ -1,4 +1,4 @@
-# BLASCH - Bash Lightweight Automated Script Controlling Hosts
+# BLASCH - Bash Lightweight Automated Script Controlling Hosts / with Discord Webhook integration for alerting
 A lightweight Bash script that detects unauthorized devices on a network segment using ARP scanning. When an unknown MAC address appears, it sends a Discord alert with device details.
 Built for environments where the set of connected hosts is known and stable — server rooms, DMZs, isolated VLANs, OT/SCADA networks, or any segment where a new device showing up is a security event, not a Tuesday.
 
